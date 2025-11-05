@@ -1,8 +1,9 @@
-streamlit
+﻿streamlit
 ultralytics
-cvzone
-opencv-python
+torch
+opencv-python-headless
 scikit-image
+scikit-learn
 joblib
 numpy
 pillow
