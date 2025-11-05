@@ -1,0 +1,8 @@
+streamlit
+ultralytics
+cvzone
+opencv-python-headless
+scikit-image
+joblib
+numpy
+pillow
